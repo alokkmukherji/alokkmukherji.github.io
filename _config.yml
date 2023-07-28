@@ -1,6 +1,6 @@
 title: Aloke Kumar Mukherjee
 logo: /assets/img/Aloke_Image.png
 description: I am B.tech in Information Technology from the University of Calcutta and have 16+ years of experience in ASIC Low Power Analysis, Synthesis, Equivalence Checking and CAD automation in chip design field
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
