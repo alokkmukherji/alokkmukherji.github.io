@@ -2,8 +2,9 @@ title: <p align="center"> Aloke Kumar Mukherjee </p>
 logo: /assets/img/Aloke_Image.png
 description: 
 <p align="center">
-<BR>
+<br>
  I have 16+ years of experience in ASIC Low Power Analysis, Synthesis, Equivalence Checking and CAD automation in chip design field
-<BR>
+<br>
 </p>
 
+theme: jekyll-theme-minimal
